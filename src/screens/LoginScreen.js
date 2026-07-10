@@ -933,7 +933,7 @@ export default function LoginScreen({ navigation }) {
             <Ionicons name="book" size={36} color={colors.goldDeep} />
           </View>
 
-          <Text style={styles.appName}>Grace Community</Text>
+          <Text style={styles.appName}>Holy Bible</Text>
           <Text style={styles.tagline}>Bible & Church App</Text>
         </View>
 
